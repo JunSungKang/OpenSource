@@ -6,7 +6,7 @@
 
 2017.09.10
 -
-> Create AES-SBox(16bit)
+> Create AES-SBox Model(16bit)
 
 > Developed AESEncode
 

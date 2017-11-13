@@ -1,0 +1,22 @@
+{
+  "name": "weuicore_test001_jskang",
+  "version": "0.0.4",
+  "description": "aimsystem WeUICore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunSungKang/aimsystem.git"
+  },
+  "keywords": [
+    "weuicore"
+  ],
+  "author": "jskang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JunSungKang/aimsystem/issues"
+  },
+  "homepage": "https://github.com/JunSungKang/aimsystem#readme"
+}

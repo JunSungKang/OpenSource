@@ -1,4 +1,4 @@
-[Typescript]_Utility_UpdateHistory
+# [Typescript]_Utility_UpdateHistory
 
 2017.09.08
  - Developed Base64Encode , Base64Decode , UTF8Encode , UTF8Decode
